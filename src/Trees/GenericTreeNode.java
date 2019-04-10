@@ -54,6 +54,7 @@ public class GenericTreeNode<T> {
                 System.out.print(currentNode.data + " ");
                 for(int i = 0; i < currentNode.children.size(); i++){
                     queue.add(currentNode.children.get(i));
+
                 }
             }
 
