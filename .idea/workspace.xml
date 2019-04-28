@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6af7d304-8aa8-4532-84df-96e4d12e5b3d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterviewPrep/Trees/GenericTreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InterviewPrep/Trees/GenericTreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trees/GenericTreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trees/GenericTreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InterviewPrep/Binary_Trees/BinaryTreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InterviewPrep/Binary_Trees/BinaryTreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Binary_Trees/BinaryTreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Binary_Trees/BinaryTreeNode.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Binary_Trees/BinaryTreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1292">
-              <caret line="80" selection-start-line="80" selection-end-line="80" />
+            <state relative-caret-position="-197">
+              <caret line="54" column="17" lean-forward="true" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -28,10 +28,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HashMap/Iterator.java">
+        <entry file="file://$PROJECT_DIR$/src/Trees/GenericTreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="223">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -40,70 +40,64 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Competition/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/Binary_Trees/SumOfAllNodes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="204">
+              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Competition/Stairs.java">
+        <entry file="file://$PROJECT_DIR$/src/Binary_Trees/MaxDataNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Competition/LowestDecreasingSubsequence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+            <state relative-caret-position="323">
+              <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Trees/NextLargerElement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Trees/SecondLargestElement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="49" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Trees/NodesGreaterThanX.java">
+        <entry file="file://$PROJECT_DIR$/src/Binary_Trees/CountLeafNodes.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Trees/ReplaceNodeWithDepth.java">
+        <entry file="file://$PROJECT_DIR$/src/Binary_Trees/NodesGreaterThanX.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+            <state relative-caret-position="194">
+              <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Binary_Trees/FindNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Binary_Trees/Mirror.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Competition/LowestDecreasingSubsequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -169,10 +163,16 @@
         <option value="$PROJECT_DIR$/src/Trees/ReplaceNodeWithDepth.java" />
         <option value="$PROJECT_DIR$/src/Trees/SecondLargestElement.java" />
         <option value="$PROJECT_DIR$/src/Trees/GenericTreeNode.java" />
-        <option value="$PROJECT_DIR$/src/Binary_Trees/BinaryTreeNode.java" />
         <option value="$PROJECT_DIR$/src/Binary_Trees/Solution.java" />
         <option value="$PROJECT_DIR$/src/Binary_Trees/Stairs.java" />
         <option value="$PROJECT_DIR$/src/Competition/LowestDecreasingSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/Binary_Trees/SumOfAllNodes.java" />
+        <option value="$PROJECT_DIR$/src/Binary_Trees/MaxDataNode.java" />
+        <option value="$PROJECT_DIR$/src/Binary_Trees/CountLeafNodes.java" />
+        <option value="$PROJECT_DIR$/src/Binary_Trees/NodesGreaterThanX.java" />
+        <option value="$PROJECT_DIR$/src/Binary_Trees/FindNode.java" />
+        <option value="$PROJECT_DIR$/src/Binary_Trees/BinaryTreeNode.java" />
+        <option value="$PROJECT_DIR$/src/Binary_Trees/Mirror.java" />
       </list>
     </option>
   </component>
@@ -207,13 +207,13 @@
               <item name="InterviewPrep" type="b2602c69:ProjectViewProjectNode" />
               <item name="InterviewPrep" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Competition" type="462c0819:PsiDirectoryNode" />
+              <item name="Binary_Trees" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="InterviewPrep" type="b2602c69:ProjectViewProjectNode" />
               <item name="InterviewPrep" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HashMap" type="462c0819:PsiDirectoryNode" />
+              <item name="Trees" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -223,7 +223,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554905831508" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556469764650" />
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -243,7 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LowestDecreasingSubsequence">
+  <component name="RunManager" selected="Application.Mirror">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -256,7 +256,7 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Competition.*" />
+          <option name="PATTERN" value="Binary_Trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -264,13 +264,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LowestDecreasingSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Competition.LowestDecreasingSubsequence" />
+    <configuration name="FindNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Binary_Trees.FindNode" />
       <module name="InterviewPrep" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Competition.*" />
+          <option name="PATTERN" value="Binary_Trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,22 +278,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReplaceNodeWithDepth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Trees.ReplaceNodeWithDepth" />
-      <module name="InterviewPrep" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Trees.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SecondLargestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Trees.SecondLargestElement" />
+    <configuration name="GenericTreeNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trees.GenericTreeNode" />
       <module name="InterviewPrep" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -306,13 +292,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Competition.Stairs" />
+    <configuration name="Mirror" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Binary_Trees.Mirror" />
       <module name="InterviewPrep" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Competition.*" />
+          <option name="PATTERN" value="Binary_Trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NodesGreaterThanX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Binary_Trees.NodesGreaterThanX" />
+      <module name="InterviewPrep" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Binary_Trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -352,19 +352,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SecondLargestElement" />
-      <item itemvalue="Application.ReplaceNodeWithDepth" />
+      <item itemvalue="Application.NodesGreaterThanX" />
+      <item itemvalue="Application.FindNode" />
+      <item itemvalue="Application.Mirror" />
       <item itemvalue="Application.BinaryTreeNode" />
-      <item itemvalue="Application.Stairs" />
-      <item itemvalue="Application.LowestDecreasingSubsequence" />
+      <item itemvalue="Application.GenericTreeNode" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LowestDecreasingSubsequence" />
-        <item itemvalue="Application.Stairs" />
+        <item itemvalue="Application.Mirror" />
         <item itemvalue="Application.BinaryTreeNode" />
-        <item itemvalue="Application.SecondLargestElement" />
-        <item itemvalue="Application.ReplaceNodeWithDepth" />
+        <item itemvalue="Application.GenericTreeNode" />
+        <item itemvalue="Application.FindNode" />
+        <item itemvalue="Application.NodesGreaterThanX" />
       </list>
     </recent_temporary>
   </component>
@@ -385,7 +385,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21558245" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20272315" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -399,12 +399,12 @@
       <window_info id="Job Explorer" order="11" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289256" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32561985" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32561985" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4842975" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289256" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.31900826" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3289256" />
       <window_info anchor="bottom" id="MaxCompute Job" order="10" />
@@ -439,6 +439,12 @@
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Binary_Trees/BinaryTreeNode.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Trees/NextLargerElement.java</url>
           <line>4</line>
@@ -450,7 +456,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Competition/Solution.java</url>
           <line>38</line>
-          <properties class="Binary_Trees.Solution" method="count">
+          <properties class="Competition.Solution" method="count">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="7" />
@@ -459,23 +465,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Arrays/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/InsertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InterviewPrep.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/graph/graph/Vertex.java" />
     <entry file="file://$PROJECT_DIR$/src/graph/graph/Edge.java" />
     <entry file="file://$PROJECT_DIR$/src/graph_2/graph/extra/graph/basicimplementation/Edge.java" />
@@ -645,26 +634,6 @@
     <entry file="file://$PROJECT_DIR$/src/codejam/Solution.java" />
     <entry file="file://$PROJECT_DIR$/src/codejam/Maze.java" />
     <entry file="file://$PROJECT_DIR$/src/Binary Trees/BinaryTreeNode.kt" />
-    <entry file="file://$PROJECT_DIR$/src/Trees/GenericTreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Binary_Trees/BinaryTreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
-          <caret line="80" selection-start-line="80" selection-end-line="80" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/HashMap/Iterator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -676,6 +645,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Competition/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Competition/Stairs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
@@ -720,20 +699,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Competition/Stairs.java">
+    <entry file="file://$PROJECT_DIR$/src/Competition/LowestDecreasingSubsequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Binary_Trees/SumOfAllNodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Binary_Trees/MaxDataNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Binary_Trees/CountLeafNodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Binary_Trees/NodesGreaterThanX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Binary_Trees/FindNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Trees/GenericTreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Competition/LowestDecreasingSubsequence.java">
+    <entry file="file://$PROJECT_DIR$/src/Binary_Trees/Mirror.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        <state relative-caret-position="52">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Binary_Trees/BinaryTreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-197">
+          <caret line="54" column="17" lean-forward="true" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

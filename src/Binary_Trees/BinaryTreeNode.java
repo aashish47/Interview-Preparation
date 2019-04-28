@@ -40,7 +40,7 @@ public class BinaryTreeNode<T> {
         queue.add(null);
 
         while(!queue.isEmpty()){
-            BinaryTreeNode<Integer> currentNode = queue.poll();
+            BinaryTreeNode<Integer> currentNode = queue.remove();
             if(currentNode == null && queue.isEmpty()){
                 return;
             }
@@ -51,10 +51,10 @@ public class BinaryTreeNode<T> {
             else{
                 System.out.print(currentNode.data + " ");
                 if(currentNode.left != null){
-                    queue.add(root.left);
+                    queue.add(currentNode.left);
                 }
                 if(currentNode.right != null){
-                    queue.add(root.right);
+                    queue.add(currentNode.right);
                 }
 
 
