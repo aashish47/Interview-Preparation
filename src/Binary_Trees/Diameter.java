@@ -30,5 +30,6 @@ public class Diameter {
     }
     public static void main(String[] args) {
         BinaryTreeNode<Integer> root = BinaryTreeNode.createBtree();
+        diameterOfBinaryTree(root);
     }
 }
