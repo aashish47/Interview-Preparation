@@ -1,5 +1,6 @@
 package Binary_Trees;
 
+import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
@@ -73,8 +74,10 @@ public class BinaryTreeNode<T> {
 
     }
 
+
+
     public static void main(String[] args) {
         BinaryTreeNode<Integer> root = createBtree();
-        printLevelOrder(root);
+        printBtree(root);
     }
 }

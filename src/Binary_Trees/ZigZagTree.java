@@ -18,23 +18,25 @@ public class ZigZagTree {
             while(!stackRightToLeft.isEmpty()){
                 BinaryTreeNode<Integer> currentNode = stackRightToLeft.pop();
                 System.out.print(currentNode.data);
-                if(currentNode.left  != null) {
-                    stackLeftToRight.push(currentNode.left);
-                }
                 if(currentNode.right != null){
                     stackLeftToRight.push(currentNode.right);
                 }
+                if(currentNode.left  != null) {
+                    stackLeftToRight.push(currentNode.left);
+                }
+
             }
             System.out.println();
             while(!stackLeftToRight.isEmpty()){
                 BinaryTreeNode<Integer> currentNode = stackLeftToRight.pop();
                 System.out.print(currentNode.data);
-                if(currentNode.right != null){
-                    stackRightToLeft.push(currentNode.right);
-                }
                 if(currentNode.left  != null) {
                     stackRightToLeft.push(currentNode.left);
                 }
+                if(currentNode.right != null){
+                    stackRightToLeft.push(currentNode.right);
+                }
+
             }
             System.out.println();
         }
