@@ -3,11 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="6af7d304-8aa8-4532-84df-96e4d12e5b3d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterviewPrep/Binary_Trees/BinaryTreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InterviewPrep/Binary_Trees/BinaryTreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterviewPrep/Binary_Trees/ZigZagTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InterviewPrep/Binary_Trees/ZigZagTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterviewPrep/Math/HammingDistance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InterviewPrep/Math/HammingDistance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Binary_Trees/BinaryTreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Binary_Trees/BinaryTreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Binary_Trees/ZigZagTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Binary_Trees/ZigZagTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InterviewPrep/Binary_Trees/PreorderInorder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InterviewPrep/Binary_Trees/PreorderInorder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InterviewPrep/Binary_Trees/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InterviewPrep/Binary_Trees/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InterviewPrep/HashMap/MaxFrequency.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InterviewPrep/HashMap/MaxFrequency.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Binary_Trees/PreorderInorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Binary_Trees/PreorderInorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Binary_Trees/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Binary_Trees/TreeNode.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,56 +19,48 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Math/PermutationRank.java">
+        <entry file="file://$PROJECT_DIR$/src/Binary_Trees/PreorderInorder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1122">
-              <caret line="71" column="51" selection-start-line="71" selection-start-column="51" selection-end-line="71" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2063#2064#0" expanded="true" />
-                <element signature="e#2125#2126#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Binary_Trees/BinaryTreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Binary_Trees/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="181" column="42" lean-forward="true" selection-start-line="181" selection-start-column="42" selection-end-line="181" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HashMap/PairSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+            <state relative-caret-position="748">
+              <caret line="44" selection-start-line="44" selection-end-line="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Tries/HotelReviews.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Binary_Trees/NodesWithoutSiblings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Binary_Trees/PostorderInorder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HashMap/MaxFrequency.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="49">
+            <state relative-caret-position="357">
               <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -110,7 +102,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Binary_Trees/LevelOrderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="340">
               <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -147,7 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Trees/MaxSumNode.java" />
         <option value="$PROJECT_DIR$/src/Trees/NextLargerElement.java" />
         <option value="$PROJECT_DIR$/src/codejam/Solution.java" />
         <option value="$PROJECT_DIR$/src/codejam/Maze.java" />
@@ -172,7 +163,6 @@
         <option value="$PROJECT_DIR$/src/Binary_Trees/LevelWiseLinkedList.java" />
         <option value="$PROJECT_DIR$/src/Binary_Trees/RemoveLeafNodes.java" />
         <option value="$PROJECT_DIR$/src/Binary_Trees/NodesWithoutSiblings.java" />
-        <option value="$PROJECT_DIR$/src/Binary_Trees/PreorderInorder.java" />
         <option value="$PROJECT_DIR$/src/Binary_Trees/PostorderInorder.java" />
         <option value="$PROJECT_DIR$/src/Competition/Circuit.java" />
         <option value="$PROJECT_DIR$/src/Competition/Robot.java" />
@@ -195,9 +185,11 @@
         <option value="$PROJECT_DIR$/src/Math/PermutationRank.java" />
         <option value="$PROJECT_DIR$/src/Binary_Trees/BinaryTreeNode.java" />
         <option value="$PROJECT_DIR$/src/Binary_Trees/ZigZagTree.java" />
-        <option value="$PROJECT_DIR$/src/Binary_Trees/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/HashMap/PairSum.java" />
         <option value="$PROJECT_DIR$/src/HashMap/MaxFrequency.java" />
+        <option value="$PROJECT_DIR$/src/Binary_Trees/PreorderInorder.java" />
+        <option value="$PROJECT_DIR$/src/Binary_Trees/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/Tries/HotelReviews.java" />
       </list>
     </option>
   </component>
@@ -222,51 +214,16 @@
               <item name="InterviewPrep" type="b2602c69:ProjectViewProjectNode" />
               <item name="InterviewPrep" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="InterviewPrep" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InterviewPrep" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="InterviewPrep" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InterviewPrep" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Binary_Trees" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="InterviewPrep" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InterviewPrep" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Competition" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="InterviewPrep" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InterviewPrep" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HashMap" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="InterviewPrep" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InterviewPrep" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Math" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="InterviewPrep" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InterviewPrep" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Trees" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563051085797" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563484780196" />
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
   </component>
   <component name="RecentsManager">
@@ -289,20 +246,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaxFrequency">
+  <component name="RunManager" selected="Application.HotelReviews">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinaryTreeNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Binary_Trees.BinaryTreeNode" />
+    <configuration name="HotelReviews" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tries.HotelReviews" />
       <module name="InterviewPrep" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Binary_Trees.*" />
+          <option name="PATTERN" value="Tries.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -338,13 +295,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PermutationRank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Math.PermutationRank" />
+    <configuration name="PreorderInorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Binary_Trees.PreorderInorder" />
       <module name="InterviewPrep" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Math.*" />
+          <option name="PATTERN" value="Binary_Trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -398,19 +355,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PermutationRank" />
-      <item itemvalue="Application.BinaryTreeNode" />
       <item itemvalue="Application.TreeNode" />
       <item itemvalue="Application.PairSum" />
       <item itemvalue="Application.MaxFrequency" />
+      <item itemvalue="Application.PreorderInorder" />
+      <item itemvalue="Application.HotelReviews" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HotelReviews" />
+        <item itemvalue="Application.TreeNode" />
+        <item itemvalue="Application.PreorderInorder" />
         <item itemvalue="Application.MaxFrequency" />
         <item itemvalue="Application.PairSum" />
-        <item itemvalue="Application.TreeNode" />
-        <item itemvalue="Application.BinaryTreeNode" />
-        <item itemvalue="Application.PermutationRank" />
       </list>
     </recent_temporary>
   </component>
@@ -429,9 +386,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27987897" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30257186" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -446,7 +402,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289256" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32561985" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4842975" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.57355374" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -541,13 +497,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Binary_Trees/TreeNode.java</url>
-          <line>96</line>
+          <line>97</line>
           <properties />
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Binary_Trees/TreeNode.java</url>
-          <line>193</line>
+          <line>195</line>
           <properties />
           <option name="timeStamp" value="29" />
         </line-breakpoint>
@@ -556,12 +512,6 @@
           <line>13</line>
           <properties />
           <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/HashMap/MaxFrequency.java</url>
-          <line>13</line>
-          <properties />
-          <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Trees/NextLargerElement.java</url>
@@ -581,17 +531,48 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Binary_Trees/TreeNode.java</url>
-          <line>36</line>
+          <line>37</line>
           <properties class="Binary_Trees.TreeNode" method="inorderTraversal">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Binary_Trees/TreeNode.java</url>
+          <line>272</line>
+          <properties class="Binary_Trees.TreeNode" method="hasPathSum">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Binary_Trees/TreeNode.java</url>
+          <line>293</line>
+          <properties class="Binary_Trees.TreeNode" method="pathSum">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Binary_Trees/TreeNode.java</url>
+          <line>311</line>
+          <properties class="Binary_Trees.TreeNode" method="sumNumbers">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Binary_Trees/TreeNode.java</url>
+          <line>355</line>
+          <properties class="Binary_Trees.TreeNode" method="buildTree">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Binary Trees/BinaryTreeNode.kt" />
     <entry file="file://$PROJECT_DIR$/src/HashMap/Iterator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -764,27 +745,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Binary_Trees/NodesWithoutSiblings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Binary_Trees/PreorderInorder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Binary_Trees/PostorderInorder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Competition/Robot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3400">
@@ -945,6 +905,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/HashMap/PairSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Binary_Trees/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6086">
+          <caret line="360" column="39" selection-start-line="360" selection-start-column="39" selection-end-line="360" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Binary_Trees/PreorderInorder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Binary_Trees/NodesWithoutSiblings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Binary_Trees/PostorderInorder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HashMap/MaxFrequency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Binary_Trees/ZigZagTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
@@ -969,6 +977,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Binary_Trees/LevelOrderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Competition/Circuit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2159">
@@ -979,37 +997,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Binary_Trees/LevelOrderTraversal.java">
+    <entry file="file://$PROJECT_DIR$/src/Tries/HotelReviews.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Binary_Trees/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="181" column="42" lean-forward="true" selection-start-line="181" selection-start-column="42" selection-end-line="181" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HashMap/PairSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HashMap/MaxFrequency.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        <state relative-caret-position="17">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

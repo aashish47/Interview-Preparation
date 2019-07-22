@@ -44,8 +44,8 @@ public class PreorderInorder {
     }
 
     public static void main(String[] args) {
-        int in[] = {4,2,5,1,3,7};
-        int pre[] = {1,2,4,5,3,7};
+        int in[] = {3, 2, 4, 1, 5 };
+        int pre[] = { 1, 2, 3, 4, 5};
         levelOrder(buildTree(in,pre));
     }
 }
