@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6af7d304-8aa8-4532-84df-96e4d12e5b3d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterviewPrep/Strings/JustifiedText.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InterviewPrep/Strings/JustifiedText.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,34 +56,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RemoveElement">
+  <component name="RunManager" selected="Application.ReverseLinkedList2">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerToRoman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.IntegerToRoman" />
+    <configuration name="DetectCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.DetectCycle" />
       <module name="InterviewPrep" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IntersectionOfArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoPointer.IntersectionOfArrays" />
-      <module name="InterviewPrep" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TwoPointer.*" />
+          <option name="PATTERN" value="LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,13 +105,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanToIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.RomanToIntegers" />
+    <configuration name="ReverseLinkedList2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.ReverseLinkedList2" />
       <module name="InterviewPrep" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.*" />
+          <option name="PATTERN" value="LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortByColor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoPointer.SortByColor" />
+      <module name="InterviewPrep" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TwoPointer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,19 +165,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RomanToIntegers" />
-      <item itemvalue="Application.IntegerToRoman" />
-      <item itemvalue="Application.IntersectionOfArrays" />
       <item itemvalue="Application.RemoveDuplicates" />
       <item itemvalue="Application.RemoveElement" />
+      <item itemvalue="Application.SortByColor" />
+      <item itemvalue="Application.DetectCycle" />
+      <item itemvalue="Application.ReverseLinkedList2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseLinkedList2" />
+        <item itemvalue="Application.DetectCycle" />
+        <item itemvalue="Application.SortByColor" />
         <item itemvalue="Application.RemoveElement" />
         <item itemvalue="Application.RemoveDuplicates" />
-        <item itemvalue="Application.IntersectionOfArrays" />
-        <item itemvalue="Application.IntegerToRoman" />
-        <item itemvalue="Application.RomanToIntegers" />
       </list>
     </recent_temporary>
   </component>
@@ -315,6 +314,21 @@
           <url>file://$PROJECT_DIR$/src/HashMap/ColourfulNumbers.java</url>
           <line>10</line>
           <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TwoPointer/SortByColor.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/ReverseLinkedList2.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/ReverseLinkedList2.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Trees/NextLargerElement.java</url>
