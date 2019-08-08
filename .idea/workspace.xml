@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6af7d304-8aa8-4532-84df-96e4d12e5b3d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InterviewPrep/LinkedList/RemoveDuplicates2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InterviewPrep/LinkedList/RemoveDuplicates2.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,13 +35,13 @@
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Hp\IdeaProjects\InterviewPrep\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="BinarySearchTrees" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Hp\IdeaProjects\InterviewPrep\src" />
     </key>
   </component>
@@ -56,15 +57,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RemoveDuplicates2">
+  <component name="RunManager" selected="Application.ReorderList">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pallindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.Pallindrome" />
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.InsertionSort" />
       <module name="InterviewPrep" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -77,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicates1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.RemoveDuplicates1" />
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.MergeSort" />
       <module name="InterviewPrep" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -91,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicates2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.RemoveDuplicates2" />
+    <configuration name="PartitionList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.PartitionList" />
       <module name="InterviewPrep" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -105,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveNthFromLast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.RemoveNthFromLast" />
+    <configuration name="ReorderList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.ReorderList" />
       <module name="InterviewPrep" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -119,8 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseLinkedList2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.ReverseLinkedList2" />
+    <configuration name="SwapNodesAdjacent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.SwapNodesAdjacent" />
       <module name="InterviewPrep" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -165,19 +166,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ReverseLinkedList2" />
-      <item itemvalue="Application.Pallindrome" />
-      <item itemvalue="Application.RemoveDuplicates1" />
-      <item itemvalue="Application.RemoveNthFromLast" />
-      <item itemvalue="Application.RemoveDuplicates2" />
+      <item itemvalue="Application.SwapNodesAdjacent" />
+      <item itemvalue="Application.PartitionList" />
+      <item itemvalue="Application.InsertionSort" />
+      <item itemvalue="Application.MergeSort" />
+      <item itemvalue="Application.ReorderList" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RemoveDuplicates2" />
-        <item itemvalue="Application.RemoveNthFromLast" />
-        <item itemvalue="Application.RemoveDuplicates1" />
-        <item itemvalue="Application.Pallindrome" />
-        <item itemvalue="Application.ReverseLinkedList2" />
+        <item itemvalue="Application.ReorderList" />
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.PartitionList" />
+        <item itemvalue="Application.SwapNodesAdjacent" />
       </list>
     </recent_temporary>
   </component>
@@ -326,9 +327,24 @@
           <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LinkedList/RemoveDuplicates2.java</url>
-          <line>73</line>
-          <option name="timeStamp" value="71" />
+          <url>file://$PROJECT_DIR$/src/LinkedList/KReverseLinkedList.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/SwapNodesAdjacent.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/InsertionSort.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/ReorderList.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="79" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Trees/NextLargerElement.java</url>
