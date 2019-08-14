@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6af7d304-8aa8-4532-84df-96e4d12e5b3d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InterviewPrep/Strings/Atoi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InterviewPrep/Strings/Atoi.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,20 +60,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Atoi">
+  <component name="RunManager" selected="Application.NobleInteger">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Atoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.Atoi" />
+    <configuration name="AntiDiagnols" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.AntiDiagnols" />
       <module name="InterviewPrep" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,13 +81,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountingTriangles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoPointer.CountingTriangles" />
+    <configuration name="KthRowPascal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.KthRowPascal" />
       <module name="InterviewPrep" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TwoPointer.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,13 +95,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DistinctWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Heap.DistinctWindow" />
+    <configuration name="NobleInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.NobleInteger" />
       <module name="InterviewPrep" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Heap.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,13 +109,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoPointer.MaxWater" />
+    <configuration name="PascalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.PascalTriangle" />
       <module name="InterviewPrep" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TwoPointer.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,13 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeSum0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoPointer.ThreeSum0" />
+    <configuration name="SpiralOrder2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.SpiralOrder2" />
       <module name="InterviewPrep" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TwoPointer.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,19 +169,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DistinctWindow" />
-      <item itemvalue="Application.ThreeSum0" />
-      <item itemvalue="Application.CountingTriangles" />
-      <item itemvalue="Application.MaxWater" />
-      <item itemvalue="Application.Atoi" />
+      <item itemvalue="Application.SpiralOrder2" />
+      <item itemvalue="Application.PascalTriangle" />
+      <item itemvalue="Application.KthRowPascal" />
+      <item itemvalue="Application.AntiDiagnols" />
+      <item itemvalue="Application.NobleInteger" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Atoi" />
-        <item itemvalue="Application.MaxWater" />
-        <item itemvalue="Application.CountingTriangles" />
-        <item itemvalue="Application.ThreeSum0" />
-        <item itemvalue="Application.DistinctWindow" />
+        <item itemvalue="Application.NobleInteger" />
+        <item itemvalue="Application.AntiDiagnols" />
+        <item itemvalue="Application.KthRowPascal" />
+        <item itemvalue="Application.PascalTriangle" />
+        <item itemvalue="Application.SpiralOrder2" />
       </list>
     </recent_temporary>
   </component>
@@ -352,6 +353,16 @@
           <url>file://$PROJECT_DIR$/src/Heap/DistinctWindow.java</url>
           <line>18</line>
           <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/RotateArray.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/SpiralOrder2.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="90" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Trees/NextLargerElement.java</url>
